@@ -34,7 +34,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img alt="snake animation" src="(https://github.com/silrith/Silrith/blob/output/github-snake-dark.svg)" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/silrith/Silrith/output/github-snake-dark.svg" />
 </p>
 
 ---
