@@ -3,19 +3,16 @@
 🚀 Full Stack Developer | Flutter · Vue.js · .NET Core · Node.js · Python  
 🎯 Passionate about AI, scalable systems, and clean code
 
+---
+
 <p align="center">
-  <a href="https://www.silrith.com" target="_blank">
-    <img src="https://www.silrith.com/logo.png" alt="Silrith Logo" width="150"/>
-  </a>
+  <img src="https://www.silrith.com/silrith.svg" alt="Silrith Logo" width="64" /><br/>
+  <strong>Founder of Silrith</strong>
 </p>
-
-
-## 🧠 Founder of Silrith
 
 I'm the founder of [Silrith](https://www.silrith.com), a technology company based in **Hong Kong**, focusing on scalable software and AI solutions.
 
 > 🚀 Our mission: Build powerful tools that solve real-world problems with elegant code.
-
 
 ---
 
