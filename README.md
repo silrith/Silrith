@@ -1,39 +1,83 @@
-# 👋 Hi, I'm Berk Özerdoğan  
-🚀 Full Stack Developer | Flutter · Vue.js · .NET Core · Node.js  
-🎯 Passionate about AI, scalable systems, and clean code  
+<!-- GitHub README.md for silrith (Berk Özerdoğan) -->
 
-![Berk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=silrith&show_icons=true&theme=github_dark&count_private=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=silrith&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silrith&layout=compact&theme=tokyonight)](https://github.com/silrith)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/berk-%C3%B6-51218918b/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/silrith)
-### 🧰 Languages & Tools
+<h1 align="center">Hi, I'm Berk Özerdoğan 👋</h1>
+<p align="center">
+  🚀 Full Stack Developer & Mobile App Engineer  
+  <br/>
+  💻 Vue.js · Flutter · .NET Core · Node.js · DevOps  
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 Computer Engineering @ Istanbul Nişantaşı University  
+- 🧠 Passionate about AI, NLP, and scalable backend architectures  
+- 🔨 I build cross-platform mobile apps, B2B dashboards, and RESTful APIs  
+- 🧩 Constantly learning and improving with clean code & DevOps practices  
+
+---
+
+## 🛠️ Languages & Tools
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
 </p>
-### 🚀 Notable Projects
 
-- 🧠 [AI Chatbot with NLP (Node.js + WhatsApp)](https://github.com/silrith/whatsapp-nlp-bot)  
-- 🏗️ [Zorlu Ambalaj Admin Panel (Vue.js + API)](https://github.com/silrith/zorlu-admin)  
-- 📱 [LANDMARK – Field Sales App (Flutter)](https://github.com/silrith/landmark-flutter)
-![snake gif](https://github.com/silrith/silrith/blob/output/github-contribution-grid-snake.svg)
+---
 
+## 🚀 Notable Projects
 
+- 🔧 **[LANDMARK (Flutter)]**  
+  Field sales mobile app + web admin panel for real-time tracking and reporting
+
+- 📦 **[HD İskender – SAP Integration (.NET)]**  
+  Automated order syncing and reporting via custom SAP-integrated backend
+
+- 🤖 **[WhatsApp Chatbot (Node.js + NLP)]**  
+  Multilingual AI chatbot for internal and external customer operations
+
+- 📊 **[Zorlu Ambalaj – Admin Panel (Vue.js)]**  
+  Modular dashboard with product, order, and user management
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=silrith&show_icons=true&theme=github_dark&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silrith&layout=compact&theme=github_dark" height="160"/>
+</p>
+
+---
+
+## 🔥 Streak & Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=silrith&theme=dark" />
+</p>
+
+<!-- Optional Snake Game: Requires GitHub Actions -->
 <!--
-**silrith/Silrith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![snake gif](https://github.com/silrith/silrith/blob/output/github-contribution-grid-snake.svg)
 -->
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/berk-%C3%B6-51218918b/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/silrith)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:berkozerdogan@gmail.com)
+
+---
+
+<p align="center">
+  🚀 Built with passion by <strong>Berk Özerdoğan</strong>
+</p>
