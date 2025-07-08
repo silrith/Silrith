@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Berk Özerdoğan
 
-🚀 Full Stack Developer | Flutter · Vue.js · .NET Core · Node.js  
+🚀 Full Stack Developer | Flutter · Vue.js · .NET Core · Node.js · Python  
 🎯 Passionate about AI, scalable systems, and clean code
 
 ---
@@ -14,17 +14,37 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 💻 Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=silrith&label=Profile%20views&color=0e75b6&style=flat" alt="silrith" /> </p>
+
+---
+
+<h2 align="center">📊 My GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=silrith&theme=radical&show_icons=true&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=silrith&theme=radical&hide_border=true" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silrith&theme=radical&layout=compact&hide_border=true" width="50%" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=silrith&label=Profile%20views&color=blueviolet&style=flat" />
+</div>
 
 ---
 
@@ -44,33 +64,12 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🌐 Connect with Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=silrith&show_icons=true&theme=github_dark&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silrith&layout=compact&theme=github_dark" height="160"/>
-</p>
-
----
-
-## 🔥 Streak & Typing Animation
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=silrith&theme=dark" />
-  <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&vCenter=true&width=435&lines=Hi+I'm+Berk+%F0%9F%91%8B;Full+Stack+Developer;Flutter+%7C+.NET+%7C+Vue.js" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/berk-%C3%B6-51218918b/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/silrith)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berkozerdogan@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/silrith.io)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
 
 ---
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/berk-%C3%B6-51218918b/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/silrith)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:berkozerdogan@gmail.com)
-
----
-
-<p align="center">
-  🚀 Built with passion by <strong>Berk Özerdoğan</strong>
-</p>
