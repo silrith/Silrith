@@ -31,6 +31,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img alt="snake animation" src="https://github.com/silrith/silrith/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 <h2 align="center">📊 My GitHub Stats</h2>
 
 <div align="center">
