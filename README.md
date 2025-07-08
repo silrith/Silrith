@@ -1,16 +1,7 @@
-<!-- GitHub README.md for silrith (Berk Özerdoğan) -->
+# 👋 Hi, I'm Berk Özerdoğan
 
-
-<h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&vCenter=true&width=435&lines=Hi+I'm+Berk+%F0%9F%91%8B;Full+Stack+Developer;Flutter+%7C+.NET+%7C+Vue.js)](https://git.io/typing-svg) </h1>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" height="25">
-
+🚀 Full Stack Developer | Flutter · Vue.js · .NET Core · Node.js  
+🎯 Passionate about AI, scalable systems, and clean code
 
 ---
 
@@ -19,7 +10,7 @@
 - 🎓 Computer Engineering @ Istanbul Nişantaşı University  
 - 🧠 Passionate about AI, NLP, and scalable backend architectures  
 - 🔨 I build cross-platform mobile apps, B2B dashboards, and RESTful APIs  
-- 🧩 Constantly learning and improving with clean code & DevOps practices  
+- 🧩 Constantly learning and improving with clean code & DevOps practices
 
 ---
 
@@ -39,16 +30,16 @@
 
 ## 🚀 Notable Projects
 
-- 🔧 **[LANDMARK (Flutter)]**  
+- 🔧 **LANDMARK (Flutter):**  
   Field sales mobile app + web admin panel for real-time tracking and reporting
 
-- 📦 **[HD İskender – SAP Integration (.NET)]**  
+- 📦 **HD İskender – SAP Integration (.NET):**  
   Automated order syncing and reporting via custom SAP-integrated backend
 
-- 🤖 **[WhatsApp Chatbot (Node.js + NLP)]**  
+- 🤖 **WhatsApp Chatbot (Node.js + NLP):**  
   Multilingual AI chatbot for internal and external customer operations
 
-- 📊 **[Zorlu Ambalaj – Admin Panel (Vue.js)]**  
+- 📊 **Zorlu Ambalaj – Admin Panel (Vue.js):**  
   Modular dashboard with product, order, and user management
 
 ---
@@ -62,23 +53,20 @@
 
 ---
 
-## 🔥 Streak & Activity
+## 🔥 Streak & Typing Animation
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=silrith&theme=dark" />
+  <br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&vCenter=true&width=435&lines=Hi+I'm+Berk+%F0%9F%91%8B;Full+Stack+Developer;Flutter+%7C+.NET+%7C+Vue.js" />
 </p>
-
-<!-- Optional Snake Game: Requires GitHub Actions -->
-<!--
-![snake gif](https://github.com/silrith/silrith/blob/output/github-contribution-grid-snake.svg)
--->
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/berk-%C3%B6-51218918b/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/silrith)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/berk-%C3%B6-51218918b/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/silrith)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:berkozerdogan@gmail.com)
 
 ---
