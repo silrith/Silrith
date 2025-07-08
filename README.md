@@ -1,4 +1,5 @@
 <!-- GitHub README.md for silrith (Berk Özerdoğan) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&vCenter=true&width=435&lines=Hi+I'm+Berk+%F0%9F%91%8B;Full+Stack+Developer;Flutter+%7C+.NET+%7C+Vue.js)](https://git.io/typing-svg)
 
 <h1 align="center">Hi, I'm Berk Özerdoğan 👋</h1>
 <p align="center">
