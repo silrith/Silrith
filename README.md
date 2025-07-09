@@ -60,8 +60,6 @@ I'm the founder of [Silrith](https://www.silrith.com), a technology company base
 
 ---
 
-## 🐍 Contribution Snake
-
 <p align="center">
   <img alt="snake animation" src="https://raw.githubusercontent.com/silrith/Silrith/output/github-snake-dark.svg" />
 </p>
@@ -71,12 +69,12 @@ I'm the founder of [Silrith](https://www.silrith.com), a technology company base
 <h2 align="center">📊 My GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=silrith&theme=radical&show_icons=true&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=silrith&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=silrith&theme=radical&show_icons=true&hide_border=true&count_private=true" width="33%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=silrith&theme=radical&hide_border=true" width="33%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silrith&theme=radical&layout=compact&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silrith&theme=radical&layout=compact&hide_border=true" width="33%" />
 </div>
 
 <div align="center">
