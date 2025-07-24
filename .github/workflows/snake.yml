@@ -17,8 +17,8 @@ jobs:
         with:
           github_user_name: silrith
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg
+            github-contribution-grid-snake-dark.svg
+            github-contribution-grid-snake.svg
           # Tercihen dark tema için özel palet:
           config_file: .github/snk-dark-config.json
 
