@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Berk Özerdoğan
+# 👋 Hi, I'm Berk Ozerdogan
 
 🚀 Full Stack Developer | Flutter · Vue.js · .NET Core · Node.js · Python  
 🎯 Passionate about AI, scalable systems, and clean code
