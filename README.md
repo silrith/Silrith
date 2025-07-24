@@ -61,7 +61,7 @@ I'm the founder of [Silrith](https://www.silrith.com), a technology company base
 ---
 
 <p align="center">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/silrith/Silrith/output/github-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/silrith/Silrith/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
