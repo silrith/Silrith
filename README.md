@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Engineering @ Istanbul Nişantaşı University  
+- 🎓 Computer Engineering @ Istanbul Nisantasi University  
 - 🧠 Passionate about AI, NLP, and scalable backend architectures  
 - 🔨 I build cross-platform mobile apps, B2B dashboards, and RESTful APIs  
 - 🧩 Constantly learning and improving with clean code & DevOps practices
