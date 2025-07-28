@@ -14,7 +14,7 @@
 
 ---
 
-<p align="left" style="display: flex; align-items: center; flex-direction:center; gap: 8px;">
+[<p align="left" style="display: flex; align-items: center; flex-direction:center; gap: 8px;">
  <a href="https://www.silrith.com" target="_blank"><img src="https://www.silrith.com/silrith.svg" alt="Silrith Logo" width="12" style="vertical-align: middle;" /></a>
   <strong>Founder of Silrith</strong>
 </p>
@@ -40,7 +40,7 @@ I'm the founder of [Silrith](https://www.silrith.com), a technology company base
   Docker-based environments and GitHub Actions for seamless delivery and scaling.
 
 - ✅ **Cloud & Server Infrastructure Consulting**  
-  Architecture design and deployment on AWS, Azure, or Linux servers.
+  Architecture design and deployment on AWS, Azure, or Linux servers.](url)
  
 ---
 
