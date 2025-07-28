@@ -14,36 +14,6 @@
 
 ---
 
-<p align="left" style="display: flex; align-items: center; flex-direction:center; gap: 8px;">
- <a href="https://www.silrith.com" target="_blank"><img src="https://www.silrith.com/silrith.svg" alt="Silrith Logo" width="12" style="vertical-align: middle;" /></a>
-  <strong>Founder of Silrith</strong>
-</p>
-
-
-I'm the founder of [Silrith](https://www.silrith.com), a technology company based in **Hong Kong**, focusing on scalable software and AI solutions.
-
-🚀 Our Services at Silrith:
-
-- ✅ **Custom Web & Mobile Applications**  
-  Tailored business solutions using Flutter, Vue.js, and modern web technologies.
-
-- ✅ **Scalable API Development**  
-  High-performance backend systems built with .NET Core and Node.js.
-
-- ✅ **Real-Time Dashboard & Admin Panels**  
-  Data-driven interfaces for operations, analytics, and business control.
-
-- ✅ **AI-powered Automation & NLP Systems**  
-  Intelligent chatbots, document processors, and workflow automation tools.
-
-- ✅ **CI/CD & DevOps Pipelines**  
-  Docker-based environments and GitHub Actions for seamless delivery and scaling.
-
-- ✅ **Cloud & Server Infrastructure Consulting**  
-  Architecture design and deployment on AWS, Azure, or Linux servers.(url)
- 
----
-
 ## 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
